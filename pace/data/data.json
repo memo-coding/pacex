@@ -1,0 +1,408 @@
+{
+  "id": 1,
+  "title": "Two Research Vessels' Mission",
+  "description": "Phytoplankton...tiny, mostly single-celled organisms that live in the oceans, creating energy for our ocean's ecosystems.
+They're eaten by zooplankton, slightly larger organisms that make a daily trek from the ocean's sunny upper layer to its pitch-black depths.
+In this cycle, they drift through an important region, 
+a dimly lit middle ground between light and shadow...an area scientists call the twilight zone.
+Enter the Export Processes in the Ocean from Remote Sensing, or EXPORTS project
+a team of more than 150 scientists... from 29 different institutions...
+onboard two research vessels with a fleet of autonomous vehicles...
+",
+  "url": "https://pace.oceansciences.org/movies/exports-two-research-vessels.mp4",
+  {
+    "questions": [
+      {
+        "question": "What organisms create energy for ocean ecosystems?",
+        "answer": "Phytoplankton"
+      },
+      {
+        "question": "What eats phytoplankton?",
+        "answer": "Zooplankton"
+      },
+      {
+        "question": "Where do zooplankton travel daily?",
+        "answer": "Depths"
+      },
+      {
+        "question": "What is the dimly lit ocean region called?",
+        "answer": "Twilight"
+      },
+      {
+        "question": "What is the name of the ocean research project?",
+        "answer": "EXPORTS"
+      },
+      {
+        "question": "How many scientists are involved in the EXPORTS project?",
+        "answer": "150"
+      },
+      {
+        "question": "How many institutions are part of the EXPORTS project?",
+        "answer": "29"
+      },
+      {
+        "question": "What type of vehicles does the EXPORTS project use?",
+        "answer": "Autonomous"
+      }
+    ]
+  }     
+},
+{
+  "id": 2,
+  "title": " Hurricanes and Aerosols Impact",
+  "description": "This visualization shows how NASA uses satellite data and physics to track aerosols like dust, smoke, and sea salt in the atmosphere. Sea salt, carried by winds over the oceans, forms spirals during storms like Hurricane Irma, while Saharan dust is drawn out by rain. Advances in computing help scientists create more detailed simulations, showing how aerosols interact with storm systems and improving weather predictions. A unique example is Hurricane Ophelia, which carried dust from the Sahara and smoke from Portugal all the way to Ireland and the UK, a rare event that highlights the complex interactions between aerosols and weather",
+  "url": "https://pace.oceansciences.org/movies/hurricanes_and_aerosols.mp4",
+  {
+    "questions": [
+      {
+        "question": "What type of particles are carried in the air all over the planet?",
+        "answer": "Aerosols"
+      },
+      {
+        "question": "What color represents sea salt in the visualization?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Which hurricane's formation is tracked in the visualization?",
+        "answer": "Irma"
+      },
+      {
+        "question": "What natural phenomenon gathers sea salt particles into spirals?",
+        "answer": "Hurricanes"
+      },
+      {
+        "question": "What continent does the dust in the storm come from?",
+        "answer": "Africa"
+      },
+      {
+        "question": "Which country did Hurricane Ophelia carry dust and smoke to?",
+        "answer": "Ireland"
+      },
+      {
+        "question": "What kind of storm system is shown interacting with aerosols?",
+        "answer": "Hurricane"
+      },
+      {
+        "question": "Which ocean do the winds pass over to carry sea salt?",
+        "answer": "Atlantic"
+      }
+    ]
+  }    
+},
+{
+  "id": 3,
+  "title": "NASA Aerosols Study",
+  "description": "Aerosols are particles or droplets in the atmosphere. Their chemical and physical properties can have significant influences on climate and Earth's energy budget. PACE will help monitor aerosols in the atmosphere",
+  "url": "https://pace.oceansciences.org/movies/aerosols_w_logo.mp4",
+  {
+    "questions": [
+      {
+        "question": "What are aerosols made of?",
+        "answer": "Particles or Droplets"
+      },
+      {
+        "question": "Where are aerosols found?",
+        "answer": "Atmosphere"
+      },
+      {
+        "question": "What can aerosols influence significantly?",
+        "answer": "Climate"
+      },
+      {
+        "question": "What part of Earth's system do aerosols impact?",
+        "answer": "Energy"
+      },
+      {
+        "question": "What will help monitor aerosols in the atmosphere?",
+        "answer": "PACE"
+      },
+      {
+        "question": "What are the two types of aerosol properties mentioned?",
+        "answer": "Chemical and Physical"
+      }
+    ]
+  }
+},
+{
+  "id": 4,
+  "title": "Ocean's Role in Food Security",
+  "description": "Ocean health matters in terms of maintaining global fisheries. Fisheries are enormous sources of food for populations all over the world. PACE will be able to make measurements in a number of areas that will contribute to fisheries management, which is vital for food security",
+  "url": "https://pace.oceansciences.org/movies/food_security_w_logo.mp4",
+  {
+    "questions": [
+      {
+        "question": "What do fisheries provide?",
+        "answer": "Food"
+      },
+      {
+        "question": "What global resource is maintained by ocean health?",
+        "answer": "Fisheries"
+      },
+      {
+        "question": "What will PACE help manage?",
+        "answer": "Fisheries"
+      },
+      {
+        "question": "What is essential for food security?",
+        "answer": "Management"
+      },
+      {
+        "question": "What does PACE make to help fisheries management?",
+        "answer": "Measurements"
+      },
+      {
+        "question": "What is vital for global populations?",
+        "answer": "Food"
+      }
+    ]
+  }
+  
+},
+{
+  "id": 5,
+  "title": "Tracking Red Tide",
+  "description": "Red tides can come from harmful algal blooms near shore for a variety of reasons. PACE will help scientists monitor red tides.
+NASA missions monitor the ocean from space to protect fisheries and human health. The detection of harmful algal blooms, like red tides, will help us avoid their negative impacts",
+  "url": "https://pace.oceansciences.org/movies/red_tide_w_logo.mp4",
+  {
+    "questions": [
+      {
+        "question": "What causes red tides?",
+        "answer": "Algae"
+      },
+      {
+        "question": "Where do harmful algal blooms occur?",
+        "answer": "Shore"
+      },
+      {
+        "question": "What will PACE help scientists monitor?",
+        "answer": "Red tides"
+      },
+      {
+        "question": "Who monitors the ocean from space?",
+        "answer": "NASA"
+      },
+      {
+        "question": "What does NASA aim to protect by monitoring the ocean?",
+        "answer": "Fisheries"
+      },
+      {
+        "question": "What do harmful algal blooms negatively impact?",
+        "answer": "Health"
+      },
+      {
+        "question": "What specific harmful algal bloom is mentioned?",
+        "answer": "Red tides"
+      }
+    ]
+  }
+  
+},
+{
+  "id": 6,
+  "title": "S2S Instruments: Ocean Tech",
+  "description": "Field sketching on a boat is challenging, but the equipment used makes it worthwhile. Scientists are studying the carbon cycle by measuring oxygen production and consumption with a photosynthetron, simulating different light conditions. They also use instruments like a laser to analyze particle sizes and a wire walker to measure water properties such as temperature and salinity. A holographic camera captures particle data, later analyzed in virtual reality. While new technologies carry risks, traditional methods ensure reliable measurements if needed
+",
+  "url": "https://pace.oceansciences.org/movies/s2s_instruments.mp4",
+  {
+    "questions": [
+      {
+        "question": "What kind of challenges does field sketching on a boat face?",
+        "answer": "Rolling"
+      },
+      {
+        "question": "What cycle is being studied on the ship?",
+        "answer": "Carbon"
+      },
+      {
+        "question": "What instrument is used to measure photosynthesis?",
+        "answer": "Photosynthetron"
+      },
+      {
+        "question": "What is used to measure particle size in seawater?",
+        "answer": "Laser"
+      },
+      {
+        "question": "What tool measures the physical characteristics of the water column?",
+        "answer": "Wire walker"
+      }
+    ]
+  }
+  
+},
+{
+  "id": 7,
+  "title": "Phytopia: Ocean Micro-Life",
+  "description": "Phytoplankton are tiny plants and algae that live in the upper sunlit layer of almost all water bodies on Earth. Powered by the sun's energy, they come in many shapes and sizes. They serve as the base of the marine food web, and produce oxygen vital to life. Studying this incredibly diverse group is key to understanding the health - and future - of our ocean and life on earth. PACE's advanced ocean color technology is designed to help to distinguish 'who's who' in terms of phytoplankton communities.
+Phytopia
+Phytopia lets you explore the fascinating world of phytoplankton. The tool uses concept maps — which highlight connections — to display complex information. Use Phytopia to learn about the roles these plankton play in the ecosystem, whether they are harmful or not... or just explore the beauty of these tiny titans
+",
+  "url": "https://pace.oceansciences.org/movies/phytopia_intro2_alt.mp4",
+  {
+    {
+      "questions": [
+        {
+          "question": "What type of organisms are phytoplankton?",
+          "answer": "Plants"
+        },
+        {
+          "question": "Where do phytoplankton live?",
+          "answer": "Water"
+        },
+        {
+          "question": "What powers phytoplankton's activity?",
+          "answer": "Sun"
+        },
+        {
+          "question": "What do phytoplankton produce that is vital for life?",
+          "answer": "Oxygen"
+        },
+        {
+          "question": "What technology will PACE use to study phytoplankton?",
+          "answer": "Color"
+        },
+        {
+          "question": "What is the name of the tool that helps explore phytoplankton?",
+          "answer": "Phytopia"
+        },
+        {
+          "question": "What kind of maps does Phytopia use?",
+          "answer": "Concept"
+        }
+      ]
+    }      
+},
+{
+  "id": 8,
+  "title": "PhytoInsta: Phytoplankton Images",
+  "description": "NASA researchers found, during the last 15 years, populations of microscopic marine plants called phytoplankton, have decreased in the Northern Hemisphere. If this declining trend, in phytoplankton levels, continues it could affect the entire marine food web.",
+  "url": "https://pace.oceansciences.org/movies/phyto_insta_h264.mp4",
+  {
+    "questions": [
+      {
+        "question": "Who conducted the research on phytoplankton?",
+        "answer": "NASA"
+      },
+      {
+        "question": "What has decreased in the Northern Hemisphere over the last 15 years?",
+        "answer": "Phytoplankton"
+      },
+      {
+        "question": "In which hemisphere has the phytoplankton population decreased?",
+        "answer": "Northern"
+      },
+      {
+        "question": "What could be affected by the decline in phytoplankton?",
+        "answer": "Food web"
+      },
+      {
+        "question": "How long have researchers been studying the decline?",
+        "answer": "15 years"
+      },
+      {
+        "question": "What type of organisms are phytoplankton?",
+        "answer": "Plants"
+      }
+    ]
+  }
+   
+},
+{
+  "id": 9,
+  "title": "Decline of Microscopic Organisms",
+  "description": "Diatoms, a key type of marine phytoplankton, have shown a global decline over 15 years, according to a NASA study. These organisms need sunlight and nutrients like nitrate and iron to thrive at the ocean's surface. However, changes in how nutrients cycle in the water column, especially in the Northern Hemisphere, have reduced their availability. This leads to fewer nutrients reaching the diatoms, causing population declines. Scientists are still studying the reasons behind these changes, which may be linked to factors like wind, ocean circulation, and temperature
+",
+  "url": "https://pace.oceansciences.org/movies/decline_microscopic_organisms_appletv.m4v",
+  {
+    "questions": [
+      {
+        "question": "What type of life is declining at the base of the marine food chain?",
+        "answer": "Phytoplankton"
+      },
+      {
+        "question": "Who conducted the study on phytoplankton declines?",
+        "answer": "NASA"
+      },
+      {
+        "question": "What type of data was used to drive the model in the study?",
+        "answer": "Satellite"
+      },
+      {
+        "question": "Which type of phytoplankton has declined by more than 1 percent per year?",
+        "answer": "Diatoms"
+      },
+      {
+        "question": "Which ocean is mentioned as experiencing significant losses in phytoplankton?",
+        "answer": "Pacific"
+      },
+      {
+        "question": "What gas is affected by the decline in phytoplankton?",
+        "answer": "Carbon dioxide"
+      }
+    ]
+  }
+   
+},
+{
+  "id": 10,
+  "title": "Oceans' Green Machine",
+  "description": "From space, Earth is clearly an ocean planet. Although the ocean may seem empty from the shore, beneath the surface it teems with microscopic plants called phytoplankton. These tiny organisms are crucial to life on Earth, forming the base of the marine food web and producing half of the planet's oxygen through photosynthesis. Researchers track phytoplankton from space using satellites that monitor ocean color, allowing them to observe global changes. As ocean temperatures rise, phytoplankton levels have decreased, impacting marine ecosystems. Understanding these changes is vital for studying Earth's climate and the interconnectedness of global systems",
+  "url": "https://pace.oceansciences.org/movies/Oceans_Green_Machines_640x480_ESWpage.mp4",
+  {
+    "questions": [
+      {
+        "question": "What planet is referred to as an ocean planet?",
+        "answer": "Earth"
+      },
+      {
+        "question": "What microscopic plants are abundant in the ocean?",
+        "answer": "Phytoplankton"
+      },
+      {
+        "question": "What household item is used to illustrate the number of phytoplankton in water?",
+        "answer": "Coke"
+      },
+      {
+        "question": "What do phytoplankton provide the base for?",
+        "answer": "Food"
+      },
+      {
+        "question": "What process do phytoplankton use to generate oxygen?",
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "What do phytoplankton need to grow?",
+        "answer": "Sunlight"
+      },
+      {
+        "question": "From where do cold waters carry nutrients?",
+        "answer": "Depths"
+      }
+    ]
+  }
+  
+},
+{
+  "id": 11,
+  "title": "50 Years of HAB & Green Machines",
+  "description": "no description detected",
+  "url": "https://pace.oceansciences.org/movies/50_years_hab.mp4",
+},
+{
+  "id": 12,
+  "title": "GSFC: Exploring Earth",
+  "description": "no description detected",
+  "url": "https://pace.oceansciences.org/movies/GSFC_20221205_PACE_083360.MP4"
+},
+{
+  "id": 13,
+  "title": "OCI Tilt Demo",
+  "description": "no description detected",
+  "url": "https://pace.oceansciences.org/movies/oci_tilt.mp4"
+},
+{
+  "id": 14,
+  "title": "Australia Fire & Smoke",
+  "description": "no description detected",
+  "url": "https://pace.oceansciences.org/movies/australia_fire_smoke_1080p.mp4"
+}
